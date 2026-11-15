@@ -1,0 +1,6 @@
+; a list of numbers, one per line
+42
+0x10
+-5
+
+   7      ; numbers can have comments too
